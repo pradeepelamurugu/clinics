@@ -1,3 +1,5 @@
+https://github.com/WebGoat/WebGoat/wiki/(Almost)-Fully-Documented-Solution-(en)#sql-injection-mitigation
+
 A1-1-2
 SELECT department FROM employees WHERE first_name='Bob'
 
