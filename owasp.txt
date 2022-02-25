@@ -1,4 +1,5 @@
 https://github.com/WebGoat/WebGoat/wiki/(Almost)-Fully-Documented-Solution-(en)#sql-injection-mitigation
+https://docs.cycubix.com/web-application-security-essentials/solutions/a2-broken-authentication/jwt-tokens-5
 
 A1-1-2
 SELECT department FROM employees WHERE first_name='Bob'
